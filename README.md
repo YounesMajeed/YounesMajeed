@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi 👋 !
 
-## I'm Younis Majeed
+## I'm Younes Majeed
 
 <div>
 <a href="https://www.linkedin.com/in/younis-majeed" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
