@@ -37,7 +37,7 @@ I am a _gamer_, _programmer_,and _tech enthusiast_.
 ### roadmap:
 
 <div>
-   <img src ="./images/react.svg" alt="React Native" width="8%" title='React Native'/>
+   <img src ="./images/react.svg" alt="React Native" width="6%" title='React Native'/>
   <img src ="./images/vue.svg" alt="Vue" width="8%" title='Vue'/>
   <img src ="./images/nodejs.svg" alt="NodeJs" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="Express" width="8%" title='Express'/>
@@ -47,7 +47,7 @@ I am a _gamer_, _programmer_,and _tech enthusiast_.
 ### Tools I use:
 
 <div>
-  <img src ="./images/figma.svg" alt="Figma" width="8%" title='Figma'/>
+  <img src ="./images/figma.svg" alt="Figma" width="6%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code" width="8%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git" width="8%" title='Git'/>
 </div>
