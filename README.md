@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-I am a _gamer_, _programmer_,and _tech enthusiast_.
+I am a _Web developer_, _programmer_,and _tech enthusiast_.
 
 ### things I Know:
 
